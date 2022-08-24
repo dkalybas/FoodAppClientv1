@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">NewFoodApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search </string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_restaurant">Restaurant</string>
+
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_food_detail">Food Detail</string>
+    <string name="menu_cart">Cart</string>
+
+    <string name="action_clear_cart">Clear Cart</string>
+
+    <string name="view_orders">Orders</string>
+
+    <string name="sign_out">Sign Out</string>
+
+
+    <string name="home_second">Home Second</string>
+
+
+    <string name="popular_categories">Popular Categories</string>
+    <string name="best_deals">Best Deals</string>
+    <string name="menu_menu">Categories</string>
+    <string name="size">Size</string>
+
+    <string name="add_on">Addon</string>
+    <string name="menu_subscribe_news">News</string>
+
+
+    <string name="update_info">Update Info</string>
+
+    <string name="rate_the_app">Rate Us</string>
+
+
+    <string name="about_us">About Us</string>
+
+    <string name="about_us_text">Hello and welcome to [SHOP NAME], the place to find the best [PRODUCTS CATEGORY NAME] for every taste and occasion. We thoroughly check the quality of our goods, working only with reliable suppliers so that you only receive the best quality product.
+
+We at [SHOP NAME] believe in high quality and exceptional customer service. But most importantly, we believe shopping is a right, not a luxury, so we strive to deliver the best products at the most affordable prices, and ship them to you regardless of where you are located. </string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false"></string>
+
+
+</resources>
